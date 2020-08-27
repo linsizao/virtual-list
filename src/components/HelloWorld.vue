@@ -45,7 +45,6 @@ export default {
     const virtualUl = ref(null)
 
     onMounted(() => {
-      // getData()
       scrollListener()
     })
 
